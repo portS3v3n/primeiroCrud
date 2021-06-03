@@ -1,0 +1,16 @@
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.csprojAssemblyReference.cache
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.GeneratedMSBuildEditorConfig.editorconfig
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.AssemblyInfoInputs.cache
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.AssemblyInfo.cs
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.csproj.CoreCompileInputs.cache
+/home/sete/Documentos/primeiroCrud/primeiroCrud/bin/Debug/net5.0/primeiroCrud
+/home/sete/Documentos/primeiroCrud/primeiroCrud/bin/Debug/net5.0/primeiroCrud.deps.json
+/home/sete/Documentos/primeiroCrud/primeiroCrud/bin/Debug/net5.0/primeiroCrud.runtimeconfig.json
+/home/sete/Documentos/primeiroCrud/primeiroCrud/bin/Debug/net5.0/primeiroCrud.runtimeconfig.dev.json
+/home/sete/Documentos/primeiroCrud/primeiroCrud/bin/Debug/net5.0/primeiroCrud.dll
+/home/sete/Documentos/primeiroCrud/primeiroCrud/bin/Debug/net5.0/ref/primeiroCrud.dll
+/home/sete/Documentos/primeiroCrud/primeiroCrud/bin/Debug/net5.0/primeiroCrud.pdb
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.dll
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/ref/primeiroCrud.dll
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.pdb
+/home/sete/Documentos/primeiroCrud/primeiroCrud/obj/Debug/net5.0/primeiroCrud.genruntimeconfig.cache
